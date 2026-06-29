@@ -1,0 +1,41 @@
+# DAC-Tetraperoxotitanates &nbsp; 
+
+Computational supporting information for the submitted manuscript "." Solid-state unit-cell optimizations were carried out in the CASTEP 20.11 software package<sup>1</sup> with the rSCAN XC functional, 850 eV KE cutoff, and 1x1x1 MP grid spacing.
+
+## Extended-Solid Structures
+### Contents
+
+```
+DAC_peroxosolvates
+│       
+├── Na4TiO5CO3_3H2O/  # hypothetical product based on reactant structure ↓
+│   ├── optimization/
+│   │   ├── converged_structure.cell  
+│   │   ├── optimization.castep
+│   │   ├── optimization.cell
+│   │   └── optimization.param
+│   │   
+│   └── phonon/
+│       ├── phonon.castep
+│       ├── phonon.cell
+│       ├── phonon.param
+│       └── phonon.phonon
+│       
+├── Na4TiO8_3H2O/     # reactant based on experimental .cif file
+│   ├── optimization/
+│   └── phonon/
+│       
+│       
+└── README.md
+
+6 directories, 17 files
+```
+---
+Corresponding Author: May Nyman, may.nyman@oregonstate.edu <br>
+GitHub repository maintained by Tim J. Zuehlsdorff, tim.zuehlsdorff@oregonstate.edu
+
+[cc-zero-png]: https://licensebuttons.net/l/zero/1.0/88x31.png "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication button"
+[cc-zero]: https://creativecommons.org/publicdomain/zero/1.0/
+
+[![CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+button][cc-zero-png]][cc-zero]
