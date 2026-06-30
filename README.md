@@ -1,6 +1,6 @@
 # DAC-Peroxosolvates &nbsp; 
 
-<img align="right" src='https://github.com/LinusP217/DAC_peroxosolvates/blob/main/peroxosolvate_structure.png' width = "191.4" height = "150">
+<img align="right" src='https://github.com/tjz21/DAC_peroxosolvates/blob/main/peroxosolvate_structure.png' width = "191.4" height = "150">
 
 Computational supporting information for the submitted manuscript "Influence of Lattice H<sub>2</sub>O vs. H<sub>2</sub>O<sub>2</sub> on the CO<sub>2</sub> Chemisorption Performance of Alkali Peroxometalates." Solid-state unit-cell optimizations were carried out in the CASTEP 25.11 software package<sup>1</sup> with the rSCAN<sup>2</sup> XC functional, 850 eV KE cutoff, and 0.05 1/Å MP k-grid spacing.
 
